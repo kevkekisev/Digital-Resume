@@ -125,7 +125,6 @@ a {
 
 .project-img {
   border-radius: 5px;
-  max-height: 300px;
   width: 100%;
 }
 
@@ -142,9 +141,5 @@ a {
   .section--page {
     padding-top: 1em;
     padding-bottom: 1em;
-  }
-
-  .project-img {
-    width: 100%;
   }
 }
