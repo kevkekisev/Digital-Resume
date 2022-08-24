@@ -123,6 +123,11 @@ a {
   color: var(--mainLinkColor);
 }
 
+.project-img {
+  border-radius: 5px;
+  height: 300px;
+}
+
 @media (max-width: 600px) {
   #wrapper--hero {
     flex-direction: column;
